@@ -1,5 +1,6 @@
 '''
 Created on Apr 6, 2020
+BurpSuite Extension Idea, based on Jython
 
 @author: anand
 '''
